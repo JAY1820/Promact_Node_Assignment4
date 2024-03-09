@@ -1,6 +1,4 @@
-# Promact_Node_Assignment4
-
-# Express App with EJS
+# ssignment4 Express App with EJS Template Engine
 This is a simple Express application that uses EJS as the template engine.
 
 ## Why EJS?
